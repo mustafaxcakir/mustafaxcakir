@@ -1,7 +1,7 @@
 ### Hi there 👋, Mustafa Cakir
 #### Electronics Engineering & iOS Developer
 
-Skills: C / C++ / Swift
+####### Skills: C / C++ / Swift
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Swift 
