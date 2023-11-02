@@ -3,7 +3,6 @@
 
 Skills: C / C++ / Swift
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Swift 
 - 📫 How to reach me: 98mustafacan@gmail.com 
 
