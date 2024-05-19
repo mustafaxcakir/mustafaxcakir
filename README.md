@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **98mustafacan@gmail.com**
 
-- 📱 Todo: Todaily Task Manager -> [apple.co/4dFvDZT]
+- 📱 Todo: Todaily Task Manager -> [apple.co/4dFvDZT](apple.co/4dFvDZT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
