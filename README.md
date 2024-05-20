@@ -9,8 +9,9 @@
 
 - 📫 How to reach me **98mustafacan@gmail.com**
 
-- 📱 Todo: Todaily Task Manager -> [My Todo App](apple.co/4dFvDZT)
+- 📱 Todo: Todaily Task Manager -> [apple.co/4dFvDZT](apple.co/4dFvDZT)
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mustafaxcakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafaxcakir" height="30" width="40" /></a>
