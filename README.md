@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mustafa Cakir</h1>
-<h3 align="center">Electronics Engineering Student Exploring iOS Development.</h3>
 
 - 🌱 I’m currently learning **Swift,SwiftUI,UIKit**
 
