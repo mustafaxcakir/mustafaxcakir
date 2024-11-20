@@ -1,10 +1,4 @@
 
-- 🌱 I’m currently learning **Swift,SwiftUI,UIKit**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mustafaxcakir](https://github.com/mustafaxcakir)
-
-- 💬 Ask me about **Swift,SwiftUI,UIKit**
-
 - 📫 How to reach me **98mustafacan@gmail.com**
 
 - 📱 Todo: Todaily Task Manager -> [apple.co/4dFvDZT](apple.co/4dFvDZT)
